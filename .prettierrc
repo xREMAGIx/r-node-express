@@ -1,0 +1,16 @@
+{
+    "overrides": [
+        {
+            "files": "*.yaml",
+            "options": {
+                "printWidth": 40,
+                "singleQuote": true,
+                "tadWidth": 2
+            }
+        }
+    ],
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "all",
+    "useTabs": false
+}
